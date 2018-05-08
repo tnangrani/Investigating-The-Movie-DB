@@ -18,6 +18,8 @@ The analysis will be focusing on genre popularity, profitability and the activit
 
 3) Which Primary Genre had the highest average profit (inflation-adjusted) and which film was the most profitable overall (inflation-adjusted)?
 
+My analysis was prepared in the uploaded Jupyter Notebook. I have also uploaded HTML and PDF versions. The source data file has also been uploaded.
+
 ## Author
 Tuhin Nangrani
  
