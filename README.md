@@ -20,6 +20,12 @@ The analysis will be focusing on genre popularity, profitability and the activit
 
 My analysis was prepared in the uploaded Jupyter Notebook. I have also uploaded HTML and PDF versions. The source data file has also been uploaded.
 
+## Files
+- "tmdb-movies.csv" is the raw data file sourced from TMDb
+- "Investigate_a_Dataset.ipynb" is the submitted Jupyter Notebook file containing the Python code
+- "Investigate_a_Dataset.html" is the HTML version of the Jupyter Notebook
+- "TMDB_Analysis.pdf" is the PDF version of the Jupyter Notebook
+
 ## Author
 Tuhin Nangrani
  
